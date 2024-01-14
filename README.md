@@ -1,2 +1,2 @@
-# desafio-modulo2-cibersecurity
-Desafio Ransomware em Python.
+# Desafio Cibersecurity Ransomware.
+Desafio concluído: Ransomware em Python.
