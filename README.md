@@ -1,7 +1,7 @@
 # Desafio Cibersecurity Ransomware.
 Desafio concluído: Ransomware em Python.
 
-![](./meu arquivo.png)
+![alt text](./meu arquivo.png)
 
 ![](./meu arquivo criptografado.png)
 
